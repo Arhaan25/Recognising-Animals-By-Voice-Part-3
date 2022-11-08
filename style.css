@@ -1,0 +1,52 @@
+body {
+    background-image: linear-gradient(to right top, darkred,red,orange, darkorange, yellow, rgba(133, 133, 0, 0.76), darkgreen, green,cyan, blue, darkblue,purple, violet, pink, magenta, rgb(231, 52, 82),brown, rgb(92, 33, 33),black, gray, darkgray, white);
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+.header_div h2 {
+    background-color: red;
+    color: orange;
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+.header_div p {
+    background-color: green;
+    color: yellow;
+    font-family: 'Cedarville Cursive', cursive;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div center button {
+    background-color: blue;
+    color: violet;
+    font-family: 'Cedarville Cursive', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.main_div center h3 {
+    background-color: pink;
+    color: rgb(190, 47, 71);
+    font-family: 'Times New Roman', Times, serif ;
+}
+
+.main_div center h4 {
+    background-color: brown;
+    color: black;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-image: linear-gradient(to left bottom, darkred,red,orange, darkorange, yellow, rgba(133, 133, 0, 0.76), darkgreen, green,cyan, blue, darkblue,purple, violet, pink, magenta, rgb(231, 52, 82),brown, rgb(92, 33, 33),black, gray, darkgray, white);
+    line-height: 4.563;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+}
